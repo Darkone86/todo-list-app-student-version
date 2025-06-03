@@ -1,6 +1,5 @@
 const express = require("express");
 const router = express.Router();
-// There is a bug in line 4 you need to fix it
 const taskModel = require("../models/taskModel");
 
 //Write a comment describing the purpose of this route
