@@ -1,7 +1,7 @@
 
 body {
   font-family: sans-serif;
-  background: #6facc5;
+  background: #c34cbc;
   padding: 20px;
 }
 
@@ -21,6 +21,6 @@ ul {
 li {
   padding: 10px;
   margin-top: 10px;
-  background: #c34cbc;
+  background: #6facc5;
   border-radius: 4px;
 }
